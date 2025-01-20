@@ -8,6 +8,18 @@ CanvasConnect is a collaborative drawing application where users can sketch and 
 - **Clear Canvas:** Clear the entire canvas with a button.
 - **Real-time Collaboration:** Users can draw on the same canvas with others in real-time using Socket.IO.
 
+## Preview
+
+Here are some screenshots of CanvasConnect in action:
+
+### Home Screen
+![Screenshot from 2025-01-20 16-40-01](https://github.com/user-attachments/assets/df7df46f-0147-4e70-8751-aed67a9371cb)
+
+
+### Collaborative Drawing
+![Screenshot from 2025-01-20 16-56-12](https://github.com/user-attachments/assets/9ddd042a-6e16-4e4f-be73-5f3d8dae19da)
+
+
 ## Project Structure
 This project consists of two main folders:
 1. **frontend** - Contains the React app for the user interface.
