@@ -2,12 +2,6 @@
 
 CanvasConnect is a collaborative drawing application where users can sketch and draw in real-time. Users can create and edit shapes like lines, rectangles, and ellipses, pick any color, and clear the canvas. The app supports real-time collaboration, allowing connected users to share their canvas via Socket.IO.
 
-## Features
-- **Draw Shapes:** Users can draw lines, rectangles, and ellipses.
-- **Pick Colors:** Choose from a color palette to customize drawing.
-- **Clear Canvas:** Clear the entire canvas with a button.
-- **Real-time Collaboration:** Users can draw on the same canvas with others in real-time using Socket.IO.
-
 ## Preview
 
 Here are some screenshots of CanvasConnect in action:
@@ -19,6 +13,11 @@ Here are some screenshots of CanvasConnect in action:
 ### Collaborative Drawing
 ![Screenshot from 2025-01-20 16-56-12](https://github.com/user-attachments/assets/9ddd042a-6e16-4e4f-be73-5f3d8dae19da)
 
+## Features
+- **Draw Shapes:** Users can draw lines, rectangles, and ellipses.
+- **Pick Colors:** Choose from a color palette to customize drawing.
+- **Clear Canvas:** Clear the entire canvas with a button.
+- **Real-time Collaboration:** Users can draw on the same canvas with others in real-time using Socket.IO.
 
 ## Project Structure
 This project consists of two main folders:
